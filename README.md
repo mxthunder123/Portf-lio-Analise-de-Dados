@@ -43,10 +43,8 @@ O projeto demonstra a capacidade de criar sistemas de relatórios que atendem a 
 
 ## 📬 Contato
 
-* **Portfólio Geral (Outras Áreas):** [Voltar para a Tabela Principal de Portfólios](https://github.com/mxthunder123/Portfolio-Geral-Dados)
+* **Portfólio Geral (Outras Áreas):** [Voltar para a Tabela Principal de Portfólios](https://github.com/mxthunder123/Portfolio-Dados)
 * **LinkedIn:** [Pedro Sena](https://www.linkedin.com/in/pedro-sena-994a63116/)
 * **Email:** psenalima@gmail.com
 
 ---
-
-*Lembre-se de **substituir** todos os textos entre `[colchetes]` e `[Link]` pelos seus dados e URLs reais.*
