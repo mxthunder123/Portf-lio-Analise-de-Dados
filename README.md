@@ -31,10 +31,10 @@ O projeto demonstra a capacidade de criar sistemas de relatórios que atendem a 
 
 | Visão do Usuário | Foco da Análise | Link para o Dashboard Online |
 | :--- | :--- | :--- |
-| **Página Inicial do dash** | Perspectiva inicial. | [Acessar a capa do Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]) |
-| **Gestores Escolares** | Perspectiva estratégica e alocação de recursos. | [Acessar Dashboard do Gestor]([https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]) |
-| **Professores** | Progresso individual, otimização de planos de aula. | [Acessar Dashboard do Professor]([https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]) |
-| **Pais** | Comunicação transparente sobre o desenvolvimento do aluno e apoio em casa. | [Acessar Dashboard dos Pais]([https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]) |
+| **Página Inicial do dash** | Perspectiva inicial. | [Acessar a capa do Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9) |
+| **Gestores Escolares** | Perspectiva estratégica e alocação de recursos. | [Acessar Dashboard do Gestor](https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9) |
+| **Professores** | Progresso individual, otimização de planos de aula. | [Acessar Dashboard do Professor](https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9) |
+| **Pais** | Comunicação transparente sobre o desenvolvimento do aluno e apoio em casa. | [Acessar Dashboard dos Pais](https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9) |
 
 * **Repositório com o Código-Fonte:** [Acessar Código e Documentação do Projeto Carpe Diem](https://github.com/mxthunder123/Portf-lio-Analise-de-Dados/tree/main/Carpe_Diem)
 * **Ferramentas/Técnicas:** Power BI, Python (Pandas,Faker), SQL para ETL, KPI Development
@@ -44,8 +44,8 @@ O projeto demonstra a capacidade de criar sistemas de relatórios que atendem a 
 ## 📬 Contato
 
 * **Portfólio Geral (Outras Áreas):** [Voltar para a Tabela Principal de Portfólios](https://github.com/mxthunder123/Portfolio-Geral-Dados)
-* **LinkedIn:** [Pedro Sena]([https://www.linkedin.com/in/pedro-sena-994a63116/])
-* **Email:** [psenalima@gmail.com]
+* **LinkedIn:** [Pedro Sena](https://www.linkedin.com/in/pedro-sena-994a63116/)
+* **Email:** psenalima@gmail.com
 
 ---
 
