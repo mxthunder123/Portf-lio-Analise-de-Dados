@@ -1,6 +1,6 @@
 # 📊 Portfólio: Análise e Visualização de Dados
 
-Olá! Eu sou [Seu Nome/Usuário do GitHub], e este repositório é dedicado aos meus projetos de Análise e Visualização de Dados.
+Olá! Eu sou o Pedro, e este repositório é dedicado aos meus projetos de Análise e Visualização de Dados.
 
 Meu foco é transformar dados brutos em *insights* acionáveis e narrativas visuais claras, utilizando ferramentas de BI e bibliotecas de visualização para guiar decisões de negócio.
 
@@ -11,7 +11,7 @@ Meu foco é transformar dados brutos em *insights* acionáveis e narrativas visu
 | Categoria | Ferramentas/Linguagens |
 | :--- | :--- |
 | **Análise e Limpeza** | Python (Pandas, Numpy) e SQL. |
-| **Visualização e BI** | [Power BI / Tableau / Streamlit - *Escolha a sua!*] |
+| **Visualização e BI** | Power BI / Tableau / Streamlit |
 | **Outras Ferramentas** | Excel, Google Sheets, etc. |
 
 ---
@@ -31,13 +31,13 @@ O projeto demonstra a capacidade de criar sistemas de relatórios que atendem a 
 
 | Visão do Usuário | Foco da Análise | Link para o Dashboard Online |
 | :--- | :--- | :--- |
-| **Página Inicial do dash** | Perspectiva inicial. | [Acessar a capa do Dashboard](**[https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]**) |
-| **Gestores Escolares** | Perspectiva estratégica e alocação de recursos. | [Acessar Dashboard do Gestor](**[https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]**) |
-| **Professores** | Progresso individual, otimização de planos de aula. | [Acessar Dashboard do Professor](**[https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]**) |
-| **Pais** | Comunicação transparente sobre o desenvolvimento do aluno e apoio em casa. | [Acessar Dashboard dos Pais](**[https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]**) |
+| **Página Inicial do dash** | Perspectiva inicial. | [Acessar a capa do Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]) |
+| **Gestores Escolares** | Perspectiva estratégica e alocação de recursos. | [Acessar Dashboard do Gestor]([https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]) |
+| **Professores** | Progresso individual, otimização de planos de aula. | [Acessar Dashboard do Professor]([https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]) |
+| **Pais** | Comunicação transparente sobre o desenvolvimento do aluno e apoio em casa. | [Acessar Dashboard dos Pais]([https://app.powerbi.com/view?r=eyJrIjoiNGY2NjNlM2EtNWRmMy00MWNlLTk1ZTYtNDBkZjMyYzc5MjlkIiwidCI6ImI0NmM3OTJjLTcyYzItNDA5YS04NjU3LTcwMmEzNjliZGIwZSJ9]) |
 
 * **Repositório com o Código-Fonte:** [Acessar Código e Documentação do Projeto Carpe Diem](https://github.com/mxthunder123/Portf-lio-Analise-de-Dados/tree/main/Carpe_Diem)
-* **Ferramentas/Técnicas:** [Ex: Power BI/Tableau, Python (Pandas,Faker), SQL para ETL, KPI Development]
+* **Ferramentas/Técnicas:** Power BI, Python (Pandas,Faker), SQL para ETL, KPI Development
 
 ---
 
